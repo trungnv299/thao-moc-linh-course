@@ -1,7 +1,7 @@
 title: Thảo Mộc Linh
 description: Thảo mộc linh chính hãng
 template:
-  repo: thao-moc-linh-template
+  repo: thao-moc-linh
   name: thao-moc-linh
 before:
   - type: createIssue
